@@ -1,0 +1,41 @@
+div.content {
+    padding: 47px 0 0;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.slide {
+    width: 803.33px;
+    height: 481.98px;
+    box-shadow: 2px rgb(179, 178, 178);
+    position: relative;
+    padding: 0 15px 0 15px;
+}
+
+.slideimg {
+    width: 803.33px;
+    height: 481.98px;
+    margin-left: 50px;
+    border-radius: 4px;
+    filter: drop-shadow(0px 2px 2px rgb(58, 43, 43));
+}
+
+#next {
+    text-transform: uppercase;
+    top: 222px;
+    left: 788px;
+    position: absolute;
+    color: black;
+    font-size: 33px;
+}
+
+#prev {
+    text-transform: uppercase;
+    top: 222px;
+    left: 110px;
+    font-size: 33px;
+    position: absolute;
+    color: black;
+}

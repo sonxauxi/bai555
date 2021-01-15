@@ -1,0 +1,43 @@
+     .allsanphamhocvien {
+         font-family: Roboto, sans-serif;
+         font-size: 16px;
+         color: #464646;
+         width: 1249px;
+         height: 632.63px;
+         padding: 80px 0;
+         display: flex;
+         flex-direction: row;
+         display: flex;
+     }
+     
+     .tieudehocvien {
+         display: flex;
+     }
+     
+     .sphocvien {
+         width: 385.78px;
+         height: 217px;
+         display: flex;
+     }
+     
+     .tongsanpham {
+         width: 1220px;
+         height: 3863px;
+     }
+     
+     .tieudesphocvien {
+         width: 1220px;
+         height: 40px;
+         margin: 0 0 32px;
+     }
+     
+     .fa-angle-left {
+         font-size: 20px;
+         font-weight: 500;
+     }
+     
+     .fas {
+         width: 40px;
+         height: 40px;
+         border: 1px #757575;
+     }

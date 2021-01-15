@@ -1,0 +1,84 @@
+.anhvstext {
+    box-sizing: border-box;
+    width: 383.66px;
+    height: 521.98px;
+    margin-right: 80px;
+    /* height: calc(100% - 40px); phép tính có thể dùng với mọi đơn vị */
+    padding: 0 0 0 15px;
+    margin-left: 50px!important;
+}
+
+div.anhthu {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 386.65px;
+    height: 103.63px;
+    line-height: 1.55;
+    display: flex;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    background-color: #fff;
+    margin: 0 0 20px 0;
+    /* height: 21.2%; */
+}
+
+.anhh img {
+    width: 105.63px;
+    height: 103px;
+    object-fit: cover;
+    border-bottom: 1px;
+    border-radius: 4px 0 0 4px;
+}
+
+.link1a {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 256.66px;
+    height: 83.625px;
+    padding: 10px 0 10px 0px;
+}
+
+.link2a {
+    padding: 10px 0 10px 0px;
+    width: 256.66px;
+    height: 83.625px;
+}
+
+.link3a {
+    padding: 10px 0 10px 0px;
+    width: 256.66px;
+    height: 83.625px;
+}
+
+.link4a {
+    padding: 10px 0 10px 0px;
+    width: 256.66px;
+    height: 83.625px;
+}
+
+.link2a11 a {
+    color: #464646;
+    text-align: left;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.text11 {
+    color: #464646;
+    text-align: left;
+    font-size: 1rem;
+    text-decoration: none;
+    /* margin-top: 10px!important; */
+    font-family: 'Roboto', sans-serif;
+}
+
+.text22 a {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size: 12.8px !important;
+    color: #757575!important;
+    text-decoration: none;
+}

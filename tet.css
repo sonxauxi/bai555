@@ -1,0 +1,12 @@
+.haha {
+    padding-left: 100px;
+    padding-right: 50px;
+    background-color: aqua;
+    margin-left: 0;
+    border-left: red solid;
+    border-width: 50px;
+}
+.icon {
+    font-size: 100px;
+    color: red;
+}

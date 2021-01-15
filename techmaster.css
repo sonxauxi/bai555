@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    width: 1317px;
+    height: 54px;
+    background-color: #34465c;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between !important;
+    filter: drop-shadow(0px 2px 2px rgb(102, 95, 95));
+}
+
+div.logoo {
+    width: 200px;
+}
+
+.logo {
+    width: 100px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px;
+    height: 27.7px;
+}
+
+div.navigation {
+    padding-inline-start: 40px;
+    width: 1100px;
+    min-height: 54px;
+    margin: 0px;
+    font-size: 17.6px;
+    border: none!important;
+    padding-right: 16px;
+}
+
+ul.menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center!important;
+    align-items: baseline;
+    width: 100%;
+    font-size: 23px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-top: 12px;
+    text-align: justify;
+}
+
+.lii a {
+    text-decoration: none;
+    margin: 0 10px 0 10px !important;
+    color: #ffff;
+    font-size: .9rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+}
+
+a:hover {
+    color: rgba(236, 236, 236, 0.705);
+}
+
+.avata img {
+    position: absolute;
+    top: 10px;
+    right: 17px;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+}
+
+.fas {
+    width: 25px;
+    height: 23px;
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    padding-right: 0 16px;
+}

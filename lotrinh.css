@@ -1,0 +1,92 @@
+.lotrinhtong {
+    box-sizing: border-box;
+    height: 1129.91px;
+    padding-bottom: 5rem;
+    line-height: 1.5;
+    padding: 0 40px;
+    margin-right: 10px;
+    background-color: #e4f2fd;
+}
+
+.h22 {
+    font-family: 'roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem !important;
+    text-transform: uppercase;
+    margin: 0;
+    margin-top: 5rem;
+}
+
+.tonglotrinh {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.lotrinh1 {
+    width: 416.66px;
+    height: 466.45px;
+    padding: 0 15px;
+    font: 16px 'roboto', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.lotrinh12 {
+    width: 386.66px;
+    height: 416.06px;
+    margin-top: 50px;
+    border-radius: 5px;
+    font-weight: 400;
+    line-height: 1.5;
+    box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.15);
+    background-color: #fdfdfd;
+    margin: 0 15px;
+}
+
+.linka {
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+}
+
+.lotrinhimg img {
+    width: 386.66px;
+    height: 231.28px;
+    display: block;
+    margin: auto;
+}
+
+.lotrinh2 {
+    font-family: 'Roboto', sans-serif;
+    padding: 22.4px;
+}
+
+.tenlotrinh h3 {
+    font-family: 'roboto', sans-serif;
+    font-size: 1.3rem!important;
+    color: #464646;
+    font-weight: 500;
+    text-align: left;
+    margin: 0;
+}
+
+p.dulieulotrinh {
+    font-weight: 300;
+    font-size: 16px;
+    color: #464646;
+}
+
+p.timelotrinh {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+}
